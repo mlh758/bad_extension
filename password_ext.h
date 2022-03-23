@@ -1,0 +1,1 @@
+extern int checkPassword(const char* source);
